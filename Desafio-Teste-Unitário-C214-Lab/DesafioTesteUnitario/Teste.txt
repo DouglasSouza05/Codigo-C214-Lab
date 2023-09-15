@@ -1,17 +1,19 @@
 Resumo da Diferença entre Testes Funcionais e Não-Funcionais
 
-Na engenharia de software, testes desempenham um papel crucial na garantia da qualidade do produto. Existem dois tipos principais: testes funcionais e testes não-funcionais.
+Na engenharia de software, testes desempenham um papel crucial na garantia da qualidade do produto. Existem dois tipos principais: Testes Funcionais e Testes Não-Funcionais.
 
 Testes Funcionais:
 
-Concentram-se em verificar se o software atende aos requisitos funcionais.
-Testam funcionalidades específicas, como as operações esperadas de um programa.
-Exemplos incluem testes de unidade, integração e usabilidade.
-Garantem que o software funcione conforme o esperado em termos de funcionalidade.
+* Concentram-se em verificar se o software atende aos requisitos funcionais.
+* Testam funcionalidades específicas, como as operações esperadas de um programa.
+* Exemplos incluem testes de unidade, integração e usabilidade.
+* Garantem que o software funcione conforme o esperado em termos de funcionalidade.
+
 Testes Não-Funcionais:
 
-Avaliam aspectos como desempenho, segurança, escalabilidade e usabilidade.
-Incluem testes de desempenho, segurança, carga e usabilidade.
-Medem características como tempo de resposta, segurança e capacidade de carga.
-Certificam que o software atende aos requisitos não-funcionais.
-Ambos os tipos de testes são essenciais para entregar software de alta qualidade aos usuários finais. Os testes funcionais garantem que o software faça o que é esperado, enquanto os testes não-funcionais garantem que ele atenda a padrões de qualidade estabelecidos.
+* Avaliam aspectos como desempenho, segurança, escalabilidade e usabilidade.
+* Incluem testes de desempenho, segurança, carga e usabilidade.
+* Medem características como tempo de resposta, segurança e capacidade de carga.
+* Certificam que o software atende aos requisitos não-funcionais.
+
+Ambos os tipos de testes são essenciais para entregar softwares de alta qualidade aos usuários finais. Os testes funcionais garantem que o software faça o que é esperado, enquanto os testes não-funcionais garantem que ele atenda a padrões de qualidade estabelecidos.
